@@ -38,8 +38,9 @@ Projetos disponíveis de cada aula:
 
 **JankenPoké!**
 
-![](https://youtu.be/DjiAWOtD7TY)
+https://github.com/user-attachments/assets/8bd8514b-e212-4af2-b0bc-bf4622ce5aff
 
-**JankenPoké! - JavaScript**
+
+**JankenPoké! - JavaScript** - [CLIQUE AQUI PARA JOGAR](https://codepen.io/Samir-Chambela/full/MYWLJyy)
 
 ![](https://github.com/user-attachments/assets/5b16bb66-db88-45e6-856b-67d00cbf88ad)
