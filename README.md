@@ -19,11 +19,10 @@ Como atualmente estudo Java, decidi fazer os desafios da Imersão utilizando ess
 
 
 ## 🎨 Projetos
-*⚙ Em andamento*
 
 Projetos disponíveis de cada aula:
 
-**Aula 02**
+**Aulas 01 e 02**
 - JankenPon! (Java)
 - JankenPoké! (Java)
 - JankenPoké! (CodePen - HTML, CSS, JavaScript)
