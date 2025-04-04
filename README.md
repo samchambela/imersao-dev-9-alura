@@ -26,13 +26,13 @@ Projetos disponíveis de cada aula:
 - JankenPoké!
 
 **Aula 03**
-- 
+- *⚙ Em andamento*
 
 **Aula 04**
-- 
+- *⚙ Em andamento*
 
 **Aula 05**
-- 
+- *⚙ Em andamento*
 
 ## 🖼️ Resultados
 
