@@ -62,9 +62,9 @@ public class JankenPoke {
         int contadorVitorias = 0;
         int contadorDerrotas = 0;
         int contadorEmpates = 0;
-        String imagemBulbasaur = "C:\\imersaodev9-alura\\jankenpoke\\src\\img\\bulba.png";
-        String imagemCharmander = "C:\\imersaodev9-alura\\jankenpoke\\src\\img\\charm.png";
-        String imagemSquirtle = "C:\\imersaodev9-alura\\jankenpoke\\src\\img\\squi.png";
+        String imagemBulbasaur = "C:\\imersaodev9-alura\\jankenpoke\\src\\assets\\img\\bulba.png";
+        String imagemCharmander = "C:\\imersaodev9-alura\\jankenpoke\\src\\assets\\img\\charm.png";
+        String imagemSquirtle = "C:\\imersaodev9-alura\\jankenpoke\\src\\assets\\img\\squi.png";
 
         Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
 
