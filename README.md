@@ -9,37 +9,40 @@ Como atualmente estudo Java, decidi fazer os desafios da Imersão utilizando ess
 
 ## 🖥️ Tecnologias
 
+### Meu foco de estudo:
 - Java
 
+### Utilizadas na Imersão:
 - HTML
 - CSS
 - JavaScript
 
 
 ## 🎨 Projetos
-*⚙ Em andamento*
 
 Projetos disponíveis de cada aula:
 
-**Aula 02**
-- JankenPon!
-- JankenPoké!
+**Aulas 01 e 02**
+- JankenPon! (Java)
+- JankenPoké! (Java)
+- JankenPoké! (CodePen - HTML, CSS, JavaScript)
 
 **Aula 03**
-- 
+- *⚙ Em andamento*
 
 **Aula 04**
-- 
+- *⚙ Em andamento*
 
 **Aula 05**
-- 
+- *⚙ Em andamento*
 
 ## 🖼️ Resultados
 
 **JankenPoké!**
 
-![](https://youtu.be/DjiAWOtD7TY)
+https://github.com/user-attachments/assets/8bd8514b-e212-4af2-b0bc-bf4622ce5aff
 
-**JankenPoké! - JavaScript**
+
+**JankenPoké! - JavaScript** - [CLIQUE AQUI PARA JOGAR](https://codepen.io/Samir-Chambela/full/MYWLJyy)
 
 ![](https://github.com/user-attachments/assets/5b16bb66-db88-45e6-856b-67d00cbf88ad)
