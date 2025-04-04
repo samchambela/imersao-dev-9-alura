@@ -9,8 +9,10 @@ Como atualmente estudo Java, decidi fazer os desafios da Imersão utilizando ess
 
 ## 🖥️ Tecnologias
 
+### Meu foco de estudo:
 - Java
 
+### Utilizadas na Imersão:
 - HTML
 - CSS
 - JavaScript
@@ -22,8 +24,9 @@ Como atualmente estudo Java, decidi fazer os desafios da Imersão utilizando ess
 Projetos disponíveis de cada aula:
 
 **Aula 02**
-- JankenPon!
-- JankenPoké!
+- JankenPon! (Java)
+- JankenPoké! (Java)
+- JankenPoké! (CodePen - HTML, CSS, JavaScript)
 
 **Aula 03**
 - *⚙ Em andamento*
