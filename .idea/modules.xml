@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/saltonovidro/SaltoNoVidro/SaltoNoVidro.iml" filepath="$PROJECT_DIR$/saltonovidro/SaltoNoVidro/SaltoNoVidro.iml" />
       <module fileurl="file://$PROJECT_DIR$/imersaodev9-alura.iml" filepath="$PROJECT_DIR$/imersaodev9-alura.iml" />
     </modules>
   </component>
